@@ -1,2 +1,2 @@
-# Clustering-crops-using-irrigation
-In this i have clustered the crops in 7 groups using k-means clustering
+# Smart-Agriculture
+In this the Goal is to predict the best crop suitable for that particular soil and climate.
